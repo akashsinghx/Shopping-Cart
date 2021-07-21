@@ -121,7 +121,7 @@ public class User {
 	public String getDate() {
 		return date;
 	}
-
+//djhdkdhfksd
 	public void setDate(String date) {
 		this.date = date;
 	}
